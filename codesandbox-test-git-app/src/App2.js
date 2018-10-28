@@ -1,9 +1,9 @@
-mport React, { Component } from "react";
+import React, { Component } from "react";
 import "./App.css";
 
 
 
-class App extends Component {
+class App extends Compone {
   render() {
     return (
       <div className="App">
